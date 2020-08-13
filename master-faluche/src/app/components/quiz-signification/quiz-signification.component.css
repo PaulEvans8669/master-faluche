@@ -1,0 +1,32 @@
+#answers-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2%;
+  row-gap: 20%;
+  padding-bottom: 8%;
+}
+@media only screen and (max-width: 600px) {
+  #answers-container {
+    grid-template-columns: 1fr;
+    row-gap: 5%;
+  }
+}
+
+#question{
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+#question img{
+  height: 200px
+}
+
+.answer {
+  min-height: 65px;
+  white-space: normal;
+  line-height: 150%;
+}
+
+#info {
+  margin-top: 5%
+}

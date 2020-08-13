@@ -1,0 +1,20 @@
+<div *ngIf="ready">
+
+  <!-- question -->
+  <div id="question">
+    <h2>{{theme | titlecase}}</h2>
+    <h3>{{question}}</h3>
+  </div>
+
+  <div id="answers-container">
+    <button mat-stroked-button color="primary" class="answer" (click)="checkAnswer([$event,answers[0]])" #answer>{{answers[0][keyAnswer]}}</button>
+    <button mat-stroked-button color="primary" class="answer" (click)="checkAnswer([$event,answers[1]])" #answer>{{answers[1][keyAnswer]}}</button>
+    <button mat-stroked-button color="primary" class="answer" (click)="checkAnswer([$event,answers[2]])" #answer>{{answers[2][keyAnswer]}}</button>
+    <button mat-stroked-button color="primary" class="answer" (click)="checkAnswer([$event,answers[3]])" #answer>{{answers[3][keyAnswer]}}</button>
+  </div>
+
+  <div *ngIf="totalQuestions > 0" id="info">
+    <p >Ton taux de réussite <span>{{correctAnswers/totalQuestions | percent}}</span></p>
+    <mat-progress-bar mode="determinate" [value]="(correctAnswers/totalQuestions)*100"></mat-progress-bar>
+  </div>
+</div>

@@ -1,0 +1,422 @@
+[
+  {
+    "libelle": "Bac L",
+    "src": "insigne-psi.jpg",
+    "nom": "Lettre L"
+  },
+  {
+    "libelle": "Bac ES",
+    "src": "insigne-beta.jpg",
+    "nom": "Lettres ES"
+  },
+  {
+    "libelle": "Bac S",
+    "src": "insigne-epsilon.jpg",
+    "nom": "Lettre S"
+  },
+  {
+    "libelle": "Bac International",
+    "src": "insigne-I.jpg",
+    "nom": "Lettre I"
+  },
+  {
+    "libelle": "Capacitaire",
+    "src": "insigne-C.jpg",
+    "nom": "Lettre C"
+  },
+  {
+    "libelle": "DAEU",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Administration Économique et Sociale",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Architecture",
+    "src": "insigne-equerre-et-compas.jpg",
+    "nom": "Equerre et compas"
+  },
+  {
+    "libelle": "Archéologie",
+    "src": "insigne-sphynx.jpg",
+    "nom": "Sphynx"
+  },
+  {
+    "libelle": "Beaux-Arts",
+    "src": "insigne-pallette.jpg",
+    "nom": "Palette"
+  },
+  {
+    "libelle": "B.T.S.",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Chirurgie dentaire",
+    "src": "insigne-molaire.jpg",
+    "nom": "Molaire"
+  },
+  {
+    "libelle": "Cinéma",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Communication",
+    "src": "insigne-caducee-commerce.jpg",
+    "nom": "Caducée Mercure"
+  },
+  {
+    "libelle": "Droit",
+    "src": "insigne-balance.jpg",
+    "nom": "Balance"
+  },
+  {
+    "libelle": "Écoles d’ingénieurs",
+    "src": "insigne-etoile-et-foudre.jpg",
+    "nom": "Etoile et foudre"
+  },
+  {
+    "libelle": "Écoles de commerce",
+    "src": "insigne-caducee-commerce.jpg",
+    "nom": "Caducée Mercure"
+  },
+  {
+    "libelle": "Écoles Notariales",
+    "src": "insigne-balance.jpg",
+    "nom": "Balance"
+  },
+  {
+    "libelle": "ESPE",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Filières sportives",
+    "src": "insigne-coq.jpg",
+    "nom": "Coq"
+  },
+  {
+    "libelle": "Géographie",
+    "src": "insigne-globe-1.jpg",
+    "nom": "Globe"
+  },
+  {
+    "libelle": "Histoire",
+    "src": "insigne-pericles.jpg",
+    "nom": "Périclès"
+  },
+  {
+    "libelle": "Infirmiers",
+    "src": "insigne-infirmier.jpg",
+    "nom": "Caducée infirmier"
+  },
+  {
+    "libelle": "I.U.T.",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "I.U.P.",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Kiné",
+    "src": "insigne-caducee-commerce.jpg",
+    "nom": "Caducée Mercure"
+  },
+  {
+    "libelle": "Lettres, Langues",
+    "src": "insigne-livre-ouvert-plume.jpg",
+    "nom": "Livre ouvert et plume"
+  },
+  {
+    "libelle": "Médecine",
+    "src": "insigne-medecine.jpg",
+    "nom": "Caducée médecine"
+  },
+  {
+    "libelle": "Musique et Musicologie",
+    "src": "insigne-lyre.jpg",
+    "nom": "Lyre"
+  },
+  {
+    "libelle": "Œnologie",
+    "src": "insigne-grappe-raisin.jpg",
+    "nom": "Grappe de raisin"
+  },
+  {
+    "libelle": "Ostéopathie",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Paramédical",
+    "src": "insigne-cisseau.jpg",
+    "nom": "Cisseau"
+  },
+  {
+    "libelle": "PCEM1/ PACES",
+    "src": "insigne-tete-mort-croise-femurs.jpg",
+    "nom": "Tête de mort sur fémurs croisés"
+  },
+  {
+    "libelle": "Pharmacie",
+    "src": "insigne-pharma.jpg",
+    "nom": "Caducée pharmacie"
+  },
+  {
+    "libelle": "Philosophie",
+    "src": "insigne-psi.jpg",
+    "nom": "φ (Phi)"
+  },
+  {
+    "libelle": "Préparateur en Pharmacie",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Prépas (Taupes, Khâgne …)",
+    "src": "insigne-chouette-2-faces.jpg",
+    "nom": "Chouette bicéphale"
+  },
+  {
+    "libelle": "Psychologie",
+    "src": "insigne-psi-B.jpg",
+    "nom": "Ψ (Psi)"
+  },
+  {
+    "libelle": "Sage Femme",
+    "src": "insigne-croix-de-hank.jpg",
+    "nom": "Croix d’Ânkh"
+  },
+  {
+    "libelle": "Social",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Sociologie",
+    "src": "insigne-grenouille.jpg",
+    "nom": "Grenouille"
+  },
+  {
+    "libelle": "Sciences",
+    "src": "insigne-palme-des-sciences.jpg",
+    "nom": "Palmes croisées de chêne et de laurier + initiales de la filière"
+  },
+  {
+    "libelle": "Sciences économiques",
+    "src": "insigne-caducee-commerce.jpg",
+    "nom": "Caducée Mercure"
+  },
+  {
+    "libelle": "Sciences politiques",
+    "src": "insigne-parapluie.jpg",
+    "nom": "Parapluie"
+  },
+  {
+    "libelle": "Théâtre",
+    "src": "insigne-masque.jpg",
+    "nom": "Masque de comédie"
+  },
+  {
+    "libelle": "Vétérinaire",
+    "src": "insigne-tete-de-cheval.jpg",
+    "nom": "Tête de cheval"
+  },
+  {
+    "libelle": "Bacchus troué",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Chameau",
+    "src": "insigne-chameau.jpg",
+    "nom": "Chameau"
+  },
+  {
+    "libelle": "&nbsp;",
+    "src": "insigne-squelette-jambes-ouvertes.jpg",
+    "nom": "Squelette jambes ouvertes"
+  },
+  {
+    "libelle": "Cochon",
+    "src": "insigne-cochon.jpg",
+    "nom": "Cochon"
+  },
+  {
+    "libelle": "Épi de blé",
+    "src": "insigne-epi-de-ble.jpg",
+    "nom": "Epi de blé"
+  },
+  {
+    "libelle": "Épi de blé croisé faucille",
+    "src": "insigne-faucille-epi-ble.jpg",
+    "nom": "Epi de blé croisé faucille"
+  },
+  {
+    "libelle": "Fer à cheval",
+    "src": "insigne-fer-a-cheval.jpg",
+    "nom": "Fer à cheval"
+  },
+  {
+    "libelle": "Feuille de vigne",
+    "src": "insigne-feuille-de-vigne.jpg",
+    "nom": "Feuille de vigne"
+  },
+  {
+    "libelle": "Fourchette",
+    "src": "insigne-fourchette.jpg",
+    "nom": "Fourchette"
+  },
+  {
+    "libelle": "Grappe de raisin",
+    "src": "insigne-grappe-raisin.jpg",
+    "nom": "Grappe de raisin"
+  },
+  {
+    "libelle": "Lyre",
+    "src": "insigne-lyre.jpg",
+    "nom": "Lyre"
+  },
+  {
+    "libelle": "Palette vernie",
+    "src": "insigne-pallette.jpg",
+    "nom": "Palette"
+  },
+  {
+    "libelle": "Pendu",
+    "src": "insigne-pendu-B.jpg",
+    "nom": "Pendu"
+  },
+  {
+    "libelle": "Plume",
+    "src": "insigne-plume.jpg",
+    "nom": "Plume"
+  },
+  {
+    "libelle": "Rose",
+    "src": "insigne-rose.jpg",
+    "nom": "Rose"
+  },
+  {
+    "libelle": "Sphinx",
+    "src": "insigne-sphynx.jpg",
+    "nom": "Sphinx"
+  },
+  {
+    "libelle": "Squelette",
+    "src": "insigne-squelette.jpg",
+    "nom": "Squelette"
+  },
+  {
+    "libelle": "Épée",
+    "src": "insigne-epee.jpg",
+    "nom": "Épée"
+  },
+  {
+    "libelle": "Flèche",
+    "src": "insigne-fleche.jpg",
+    "nom": "Flèche"
+  },
+  {
+    "libelle": "Lime",
+    "src": "insigne-lime.jpg",
+    "nom": "Lime"
+  },
+  {
+    "libelle": "Pensée",
+    "src": "insigne-pensee.jpg",
+    "nom": "Pensée"
+  },
+  {
+    "libelle": "Anneaux Olympiques",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Bacchus",
+    "src": "insigne-bacchus.jpg",
+    "nom": "Bacchus"
+  },
+  {
+    "libelle": "Bouteille de bordeaux",
+    "src": "insigne-bouteille.jpg",
+    "nom": "Bouteille de bordeaux"
+  },
+  {
+    "libelle": "Bouteille de champagne",
+    "src": "insigne-bouteille-champagne.jpg",
+    "nom": "Bouteille de champagne"
+  },
+  {
+    "libelle": "Chouette",
+    "src": "insigne-chouette.jpg",
+    "nom": "Chouette"
+  },
+  {
+    "libelle": "Clé de sol",
+    "src": "insigne-cle-de-sol-B.jpg",
+    "nom": "Clé de sol"
+  },
+  {
+    "libelle": "Coq",
+    "src": "insigne-coq.jpg",
+    "nom": "Coq"
+  },
+  {
+    "libelle": "Cor de chasse",
+    "src": "insigne-cor-de-chasse.jpg",
+    "nom": "Cor de chasse"
+  },
+  {
+    "libelle": "Fourchette sur ruban bleu",
+    "src": null,
+    "nom": null
+  },
+  {
+    "libelle": "Hache",
+    "src": "insigne-hache.jpg",
+    "nom": "Hache"
+  },
+  {
+    "libelle": "Mammouth",
+    "src": "insigne-mammouth.gif",
+    "nom": "Mammouth"
+  },
+  {
+    "libelle": "Pachy",
+    "src": "insigne-pachyderme.gif",
+    "nom": "Pachy"
+  },
+  {
+    "libelle": "Poule",
+    "src": "insigne-poule-1.jpg",
+    "nom": "Poule"
+  },
+  {
+    "libelle": "Singe",
+    "src": "insigne-singe-1.jpg",
+    "nom": "Singe"
+  },
+  {
+    "libelle": "Sou troué",
+    "src": "insigne-sou-troue.jpg",
+    "nom": "Sou troué"
+  },
+  {
+    "libelle": "Volant",
+    "src": "insigne-volant.jpg",
+    "nom": "Volant"
+  },
+  {
+    "libelle": "Abeille",
+    "src": "insigne-abeille.jpg",
+    "nom": "Abeille"
+  }
+]

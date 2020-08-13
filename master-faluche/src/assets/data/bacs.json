@@ -1,0 +1,30 @@
+[
+  {
+    "libelle": "Bac L",
+    "insigne": "φ"
+  },
+  {
+    "libelle": "Bac ES",
+    "insigne": "β"
+  },
+  {
+    "libelle": "Bac S",
+    "insigne": "ε"
+  },
+  {
+    "libelle": "Bac International",
+    "insigne": "Lettre i après le bac principal"
+  },
+  {
+    "libelle": "Autres bacs",
+    "insigne": "Lettre ou initiales correspondantes"
+  },
+  {
+    "libelle": "Capacitaire",
+    "insigne": "Lettre C"
+  },
+  {
+    "libelle": "DAEU",
+    "insigne": "Lettres DAEU"
+  }
+]
