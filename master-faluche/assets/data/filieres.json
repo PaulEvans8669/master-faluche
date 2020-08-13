@@ -1,0 +1,162 @@
+[
+  {
+    "libelle": "Administration Économique et Sociale",
+    "insigne": "AES"
+  },
+  {
+    "libelle": "Archéologie",
+    "insigne": "Tête de sphinx"
+  },
+  {
+    "libelle": "Architecture",
+    "insigne": "Équerre & Compas"
+  },
+  {
+      "libelle": "Arts du spectacle",
+    "insigne": "Masque de comédie"
+  },
+  {
+    "libelle": "Beaux-arts",
+    "insigne": "Palette & Pinceau"
+  },
+  {
+    "libelle": "BTS",
+    "insigne": "BTS"
+  },
+  {
+    "libelle": "Chirurgie dentaire",
+    "insigne": "Molaire"
+  },
+  {
+    "libelle": "Cinéma",
+    "insigne": "Clap de cinéma"
+  },
+  {
+    "libelle": "Classes préparatoires",
+    "insigne": "Chouette bicéphale"
+  },
+  {
+    "libelle": "Communication",
+    "insigne": "Caducée Mercure"
+  },
+  {
+    "libelle": "Droit",
+    "insigne": "Glaive & Balance"
+  },
+  {
+    "libelle": "École de commerce, gestion, communication, journalisme",
+    "insigne": "Caducée Mercure"
+  },
+  {
+    "libelle": "École d’ingénieur",
+    "insigne": "Étoile & Foudre"
+  },
+  {
+    "libelle": "École notariale",
+    "insigne": "Glaive & Balance"
+  },
+  {
+    "libelle": "ESPE",
+    "insigne": "ESPE"
+  },
+  {
+    "libelle": "Filières sportives",
+    "insigne": "Coq"
+  },
+  {
+    "libelle": "Géographie",
+    "insigne": "Globe"
+  },
+  {
+    "libelle": "Histoire",
+    "insigne": "Casque de Périclès"
+  },
+  {
+    "libelle": "Infirmier",
+    "insigne": "Caducée infirmier"
+  },
+  {
+    "libelle": "IUT",
+    "insigne": "IUT"
+  },
+  {
+    "libelle": "IUP",
+    "insigne": "IUP"
+  },
+  {
+    "libelle": "Kiné",
+    "insigne": "Caducée Mercure"
+  },
+  {
+    "libelle": "Lettres, Langues",
+    "insigne": "Livre ouvert & Plume"
+  },
+  {
+    "libelle": "Médecine",
+    "insigne": "Caducée médecine"
+  },
+  {
+    "libelle": "Musique, Musicologie",
+    "insigne": "Lyre"
+  },
+  {
+    "libelle": "Œnologie",
+    "insigne": "Grappe de raisin"
+  },
+  {
+    "libelle": "Ostéopathie",
+    "insigne": "Sphénoïde"
+  },
+  {
+    "libelle": "Paramédical",
+    "insigne": "Ciseaux"
+  },
+  {
+    "libelle": "PAES",
+    "insigne": "Tête de mort sur fémurs croisés"
+  },
+  {
+    "libelle": "Pharmacie",
+    "insigne": "Caducée de pharmacie"
+  },
+  {
+    "libelle": "Philosophie",
+    "insigne": "φ"
+  },
+  {
+    "libelle": "Préparateurs en pharmacie",
+    "insigne": "Mortier & Pilon"
+  },
+  {
+    "libelle": "Psychologie",
+    "insigne": "ψ"
+  },
+  {
+    "libelle": "Sage-femme",
+    "insigne": "Croix d’Ânkh"
+  },
+  {
+    "libelle": "Sciences",
+    "insigne": "Palmes croisées de chêne & de laurier + initiales de la filière"
+  },
+  {
+    "libelle": "Sciences économiques",
+    "insigne": "Caducée Mercure"
+  },
+  {
+    "libelle": "Sciences politiques",
+    "insigne": "Parapluie"
+  },
+  {
+    "libelle": "Social",
+    "insigne": "Initiales de la filière"
+  },
+  {
+    "libelle": "Sociologie",
+    "insigne": "Grenouille"
+  },
+  {
+    "libelle": "Vétérinaire",
+    "insigne": "Tête de cheval"
+  }
+]

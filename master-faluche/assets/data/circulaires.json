@@ -1,0 +1,106 @@
+[
+  {
+    "libelle": "Chirurgie dentaire",
+    "couleur": "Velours violet"
+  },
+  {
+    "libelle": "Médecine",
+    "couleur": "Velours rouge"
+  },
+  {
+    "libelle": "Ostéopathie",
+    "couleur": "Velours bleu roy"
+  },
+  {
+    "libelle": "Paramédical",
+    "couleur": "Velours rose"
+  },
+  {
+    "libelle": "Pharmacie, Préparateur en pharmacie",
+    "couleur": "Velours vert"
+  },
+  {
+    "libelle": "PAES, Prépas santé",
+    "couleur": "Velours marron"
+  },
+  {
+    "libelle": "Sage-Femme",
+    "couleur": "Velours fuchsia"
+  },
+  {
+    "libelle": "Vétérinaire",
+    "couleur": "Velours bordeaux"
+  },
+  {
+    "libelle": "Administration Économique et Sociale (AES)",
+    "couleur": "Satin vert clair"
+  },
+  {
+    "libelle": "Architecture, Beaux-arts, Cinéma, Arts du spectacle",
+    "couleur": "Satin bleu"
+  },
+  {
+    "libelle": "Classes préparatoires",
+    "couleur": "Satin marron"
+  },
+  {
+    "libelle": "Communication ",
+    "couleur": "Satinsuivant l’UFR de rattachement"
+  },
+  {
+    "libelle": "Droit",
+    "couleur": "Satin rouge"
+  },
+  {
+    "libelle": "Écoles de commerce, gestion, communication, journalisme",
+    "couleur": "Satin vert & rouge"
+  },
+  {
+    "libelle": "Écoles d’ingénieurs",
+    "couleur": "Satin bleu & noir"
+  },
+  {
+    "libelle": "Écoles de notariat",
+    "couleur": "Satin rouge & noir"
+  },
+  {
+    "libelle": "ESPE",
+    "couleur": "Satin aux couleurs de la discipline étudiée"
+  },
+  {
+    "libelle": "Filières sportives",
+    "couleur": "Satin vert foncé"
+  },
+  {
+    "libelle": "IUT & BTS",
+    "couleur": "Satin blanc"
+  },
+  {
+    "libelle": "IUP",
+    "couleur": "Satin aux couleurs de la discipline étudiée"
+  },
+  {
+    "libelle": "Lettres, Langues, Sciences humaines et sociales",
+    "couleur": "Satin jaune"
+  },
+  {
+    "libelle": "Musique, Musicologie",
+    "couleur": "Satin argenté"
+  },
+  {
+    "libelle": "Œnologie",
+    "couleur": "Satin saumon"
+  },
+  {
+    "libelle": "Sciences",
+    "couleur": "Satin violet"
+  },
+  {
+    "libelle": "Sciences économiques, Gestion, IAE",
+    "couleur": "Satin orange"
+  },
+  {
+    "libelle": "Sciences politiques",
+    "couleur": "Satin bleu & rouge"
+  }
+]
