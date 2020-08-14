@@ -26,6 +26,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g0nTlYtvZQF1MT0msYjP4nKqll" />
@@ -44,12 +49,12 @@
     <property name="ts.external.directory.path" value="C:\Users\Paul\Desktop\master-faluche\master-faluche\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Paul\Desktop\master-faluche\master-faluche\src\assets\insignes" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Paul\Desktop\master-faluche\master-faluche\src\assets\insignes" />
       <recent name="C:\Users\Paul\Desktop\master-faluche\master-faluche\src\app\modules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Paul\Desktop\master-faluche\master-faluche\src\assets\insignes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="728" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597274464712">

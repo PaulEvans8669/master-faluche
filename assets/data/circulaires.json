@@ -1,0 +1,158 @@
+[
+  {
+    "libelle": "Chirurgie dentaire",
+    "couleur": "Velours violet",
+    "hex1": "#492660",
+    "hex2": "#492660"
+  },
+  {
+    "libelle": "Médecine",
+    "couleur": "Velours rouge",
+    "hex1": "#CF1F34",
+    "hex2": "#CF1F34"
+  },
+  {
+    "libelle": "Ostéopathie",
+    "couleur": "Velours bleu roy",
+    "hex1": "#2A2BAD",
+    "hex2": "#2A2BAD"
+  },
+  {
+    "libelle": "Paramédical",
+    "couleur": "Velours rose",
+    "hex1": "#F77EAC",
+    "hex2": "#F77EAC"
+  },
+  {
+    "libelle": "Pharmacie, Préparateur en pharmacie",
+    "couleur": "Velours vert",
+    "hex1": "#047A5A",
+    "hex2": "#047A5A"
+  },
+  {
+    "libelle": "PAES, Prépas santé",
+    "couleur": "Velours marron",
+    "hex1": "#573E2A",
+    "hex2": "#573E2A"
+  },
+  {
+    "libelle": "Sage-Femme",
+    "couleur": "Velours fuchsia",
+    "hex1": "#DB087D",
+    "hex2": "#DB087D"
+  },
+  {
+    "libelle": "Vétérinaire",
+    "couleur": "Velours bordeaux",
+    "hex1": "#490E1B",
+    "hex2": "#490E1B"
+  },
+  {
+    "libelle": "Administration Économique et Sociale (AES)",
+    "couleur": "Satin vert clair",
+    "hex1": "#C1F4A8",
+    "hex2": "#C1F4A8"
+  },
+  {
+    "libelle": "Architecture, Beaux-arts, Cinéma, Arts du spectacle",
+    "couleur": "Satin bleu",
+    "hex1": "#124DE7",
+    "hex2": "#124DE7"
+  },
+  {
+    "libelle": "Classes préparatoires",
+    "couleur": "Satin marron",
+    "hex1": "#573E2A",
+    "hex2": "#573E2A"
+  },
+  {
+    "libelle": "Communication ",
+    "couleur": "Satin suivant l’UFR de rattachement",
+    "hex1": null,
+    "hex2": null
+  },
+  {
+    "libelle": "Droit",
+    "couleur": "Satin rouge",
+    "hex1": "#CF1F34",
+    "hex2": "#CF1F34"
+  },
+  {
+    "libelle": "Écoles de commerce, gestion, communication, journalisme",
+    "couleur": "Satin vert & rouge",
+    "hex1": "#047A5A",
+    "hex2": "#CF1F34"
+  },
+  {
+    "libelle": "Écoles d’ingénieurs",
+    "couleur": "Satin bleu roy & noir",
+    "hex1": "#2A2BAD",
+    "hex2": "#111111"
+  },
+  {
+    "libelle": "Écoles de notariat",
+    "couleur": "Satin rouge & noir",
+    "hex1": "#CF1F34",
+    "hex2": "#111111"
+  },
+  {
+    "libelle": "ESPE",
+    "couleur": "Satin aux couleurs de la discipline étudiée",
+    "hex1": null,
+    "hex2": null
+  },
+  {
+    "libelle": "Filières sportives",
+    "couleur": "Satin vert foncé",
+    "hex1": "#1D4833",
+    "hex2": "#1D4833"
+  },
+  {
+    "libelle": "IUT & BTS",
+    "couleur": "Satin blanc",
+    "hex1": "#eeeeee",
+    "hex2": "#eeeeee"
+  },
+  {
+    "libelle": "IUP",
+    "couleur": "Satin aux couleurs de la discipline étudiée",
+    "hex1": null,
+    "hex2": null
+  },
+  {
+    "libelle": "Lettres, Langues, Sciences humaines et sociales",
+    "couleur": "Satin jaune",
+    "hex1": "#F5D04D",
+    "hex2": "#F5D04D"
+  },
+  {
+    "libelle": "Musique, Musicologie",
+    "couleur": "Satin argenté",
+    "hex1": "#DCDDDF",
+    "hex2": "#DCDDDF"
+  },
+  {
+    "libelle": "Œnologie",
+    "couleur": "Satin saumon",
+    "hex1": "#E5ADA1",
+    "hex2": "#E5ADA1"
+  },
+  {
+    "libelle": "Sciences",
+    "couleur": "Satin violet",
+    "hex1": "#492660",
+    "hex2": "#492660"
+  },
+  {
+    "libelle": "Sciences économiques, Gestion, IAE",
+    "couleur": "Satin orange",
+    "hex1": "#F36D27",
+    "hex2": "#F36D27"
+  },
+  {
+    "libelle": "Sciences politiques",
+    "couleur": "Satin bleu & rouge",
+    "hex1": "#124DE7",
+    "hex2": "#CF1F34"
+  }
+]
