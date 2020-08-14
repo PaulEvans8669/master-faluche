@@ -15,13 +15,15 @@ import { QuizComponent } from './components/quiz/quiz.component';
 import { HttpClientModule } from '@angular/common/http';
 import {MatProgressBarModule} from '@angular/material/progress-bar';
 import { QuizSignificationComponent } from './components/quiz-signification/quiz-signification.component';
+import { CirculairesComponent } from './components/circulaires/circulaires.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MainChoiceComponent,
     QuizComponent,
-    QuizSignificationComponent
+    QuizSignificationComponent,
+    CirculairesComponent
   ],
   imports: [
     BrowserModule,

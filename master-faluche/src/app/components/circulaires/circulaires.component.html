@@ -1,0 +1,50 @@
+<table mat-table [dataSource]="_data" class="mat-elevation-z8 circu-table" style="margin-bottom: 10%">
+
+  <!--- Note that these columns can be defined in any order.
+        The actual rendered columns are set as a property on the row definition" -->
+
+  <!-- Position Column -->
+  <ng-container matColumnDef="libelle">
+    <th mat-header-cell *matHeaderCellDef style="width: 30%">
+      <mat-form-field>
+        <mat-label>
+          <span style="float: left">Filière</span>
+          <mat-icon style="float: right">search</mat-icon>
+        </mat-label>
+        <input matInput (keyup)="applyFilter($event)" #input>
+      </mat-form-field>
+    </th>
+    <td mat-cell *matCellDef="let element">{{element.libelle}}</td>
+  </ng-container>
+
+  <!-- Name Column -->
+  <ng-container matColumnDef="circu">
+    <th mat-header-cell *matHeaderCellDef> Couleur de circulaire </th>
+    <td mat-cell *matCellDef="let element">
+      <div class="colors" #colors>
+        <div class="coul" [style.background-color]="element.hex1">
+          <p [ngClass]="
+          {
+            'font-dark':element.font_color1 === 'dark',
+            'font-light':element.font_color1 !== 'dark',
+            'text-col-alone': element.hex1 === element.hex2
+          }" class="text-col text-col-first">
+            {{element.col1 | titlecase}}
+          </p>
+        </div>
+        <div class="coul" [style.background-color]="element.hex2">
+          <p [ngClass]="element.font_color1 === 'dark'?'font-dark':'font-light'" class="text-col">
+            {{element.col2 | titlecase}}
+          </p>
+        </div>
+      </div>
+      <p class="circu-text" [ngClass]="element.font_color==='dark'?'font-dark':'font-light'"
+         [ngStyle]="{'width': colors.clientWidth + 'px'}">
+        {{(element.couleur.toLowerCase().includes('satin')?'satin':'velours') | uppercase}}
+      </p>
+    </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="['libelle','circu']"></tr>
+  <tr mat-row *matRowDef="let row; columns: ['libelle','circu'];" class="circu-table-row"></tr>
+</table>

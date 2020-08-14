@@ -1,6 +1,9 @@
 <mat-toolbar color="primary" style="position: fixed; z-index: 99">
   <button mat-flat-button color="primary" routerLink="">
-    <mat-icon>home</mat-icon><span style="font-size: x-large; padding-left: 15px">Master Faluche</span>
+    <mat-icon>home</mat-icon>
+  </button>
+  <button mat-flat-button color="primary" [routerLink]="['circu']" skipLocationChange>
+    <span style="margin-left: 15px">Circulaires</span>
   </button>
   <span class="example-spacer"></span>
 </mat-toolbar>

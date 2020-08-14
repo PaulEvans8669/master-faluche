@@ -3,7 +3,7 @@
   grid-template-columns: 1fr 1fr;
   column-gap: 2%;
   row-gap: 20%;
-  padding-bottom: 8%;
+  padding-bottom: 30px;
 }
 @media only screen and (max-width: 600px) {
   #answers-container {

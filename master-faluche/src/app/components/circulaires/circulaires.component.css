@@ -1,0 +1,66 @@
+.circu-table{
+  width: 100%;
+}
+
+.circu-table-row{
+  min-height: 100px;
+  height: 10vh;
+  max-height: 150px;
+}
+
+.coul{
+  height: 30px;
+  width: 100%;
+}
+
+.mat-row {
+  height: auto;
+}
+
+.mat-cell:first-of-type {
+  padding: 24px;
+}
+
+.circu-text{
+  text-align: center;
+  padding: 20px 0;
+  margin: 0;
+  font-size: 20px;
+  letter-spacing: 25px;
+  font-style: italic;
+  position: absolute;
+}
+
+.font-dark{
+color: rgba(0, 0, 0, 0.75)
+}
+
+.font-light{
+color: rgba(255, 255, 255, 0.75)
+}
+
+.text-col:not(.text-col-first){
+  float: left;
+}
+
+.text-col{
+  padding-top: 5px;
+  padding-left: 8px;
+}
+
+.colors{
+float: left;
+width: 100%;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .circu-text{
+    font-size: 14px;
+    letter-spacing: 5px;
+  }
+}
+
+.text-col-alone{
+  padding-top: 21px;
+}
